@@ -1,9 +1,6 @@
 # C
 CCCCCCCCCCCCCCCCCCCCCCCCCC
-> 使用方法：
-  1. 下载项目
-  2. npm i docsify-cli -g
-  3. docsify serve （项目文件夹名）
+> An awesome project.
 
 # test3
 456
