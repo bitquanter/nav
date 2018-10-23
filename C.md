@@ -3,7 +3,7 @@ CCCCCCCCCCCCCCCCCCCCCCCCCC
 > 使用方法：
   1. 下载项目
   2. npm i docsify-cli -g
-  2. docsify serve （项目文件夹名）
+  3. docsify serve （项目文件夹名）
 
 # test3
 456
