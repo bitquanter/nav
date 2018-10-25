@@ -13,7 +13,7 @@
 > test2.
 
 #  True install and run
-  npm install docsify-cli
-  find . -name docsify -print
-  ./node_modules/docsify serve nav
-  ./node_modules/docsify-cli/bin/docsify serve nav
+  clone source code from https://github.com/KJinn/nav
+  * npm install docsify-cli
+  * find . -name docsify -print
+  * ./node_modules/docsify-cli/bin/docsify serve nav
