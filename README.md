@@ -11,3 +11,9 @@
 # test2
 789
 > test2.
+
+#  True install and run
+  npm install docsify-cli
+  find . -name docsify -print
+  ./node_modules/docsify serve nav
+  ./node_modules/docsify-cli/bin/docsify serve nav
